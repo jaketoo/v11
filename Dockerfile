@@ -1,4 +1,4 @@
-FROM jaketoo/11:slim-buster
+FROM SOURCE-SPIDER/WWWL5:slim-buster
 
 RUN git clone https://github.com/jaketoo/11.git /root/WWWL5
 
