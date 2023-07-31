@@ -187,7 +187,7 @@ class JmthonClient(TelegramClient):
                         pastelink = await paste_message(
                             ftext, pastetype="s", markdown=False
                         )
-                        link = "[هنا](https://t.me/EE_47)"
+                        link = "[هنا](https://t.me/mvhmed)"
                         text = "**تقرير خطأ سورس جاكو**\n\n" + "اذا اردت يمكنك التبليغ"
                         text += f"- فقط وجه هذه الرسالة الى {link}.\n"
                         text += "لم يتم تسجيل اي بيانات خاصه ومهمة\n\n"
