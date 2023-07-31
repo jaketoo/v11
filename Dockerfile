@@ -1,6 +1,6 @@
-FROM jaketoo/12:slim-buster
+FROM jaketoo/11:slim-buster
 
-RUN git clone https://github.com/jaketoo/12.git /root/WWWL5
+RUN git clone https://github.com/jaketoo/11.git /root/WWWL5
 
 WORKDIR /root/WWWL5
 
