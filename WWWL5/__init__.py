@@ -14,7 +14,7 @@ from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
 __version__ = "3.2.0"
 __license__ = "GNU Affero General Public License v3.0"
-__author__ = "سورس جاكو <https://github.com/jaketo/11>"
+__author__ = "سورس جاكو <https://github.com/jaketo/v11>"
 __copyright__ = f" حقوق سورس جاكو (C) 2020 - 2022  {__author__}"
 
 WWWL5.version = __version__
